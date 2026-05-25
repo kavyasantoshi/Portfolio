@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f1a29672.css",
+    "main.js": "/Portfolio/static/js/main.37402be7.js",
+    "static/media/code_delight.jpg": "/Portfolio/static/media/code_delight.9e6db82cb6c164a89f2a.jpg",
+    "static/media/Ease_Home.jpg": "/Portfolio/static/media/Ease_Home.aa8e0a0077ab8a28d177.jpg",
+    "static/media/my_image.jpg": "/Portfolio/static/media/my_image.e1a51fe1b86bab87b942.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.f1a29672.css.map": "/Portfolio/static/css/main.f1a29672.css.map",
+    "main.37402be7.js.map": "/Portfolio/static/js/main.37402be7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1a29672.css",
+    "static/js/main.37402be7.js"
+  ]
+}
